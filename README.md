@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samyak-Shreyash
+- 👋 Hi, I’m Samyak Shreyash
 - 👀 I’m interested in developing application with Python or sometimes in Flutter.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Flutter or Data Science
