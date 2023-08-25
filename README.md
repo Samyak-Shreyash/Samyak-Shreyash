@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samyak Shreyash.
-- 👀 I’m interested in developing application with Python or sometimes in Flutter.
+- 👀 I’m interested in developing application with Java.
 - 🌱 Currently, I am focusing on development in Java.
-- 💞️ I’m looking to collaborate on Flutter or Data Science
+- 💞️ I’m looking to collaborate on Java, Vue, Flutter or Data Science
 - 📫 Reach me sam.shreyash@gmail.com or whatsapp: +91-8220345492
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-shreyash&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
