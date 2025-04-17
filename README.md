@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Samyak Shreyash.
 - 👀 I’m interested in developing application with Java/React
 - 🌱 Currently, I am focusing on development in Java/React.
-- 💞️ I’m looking to collaborate on Java, React, Next, Vue, Flutter or Data Science
+- 💞️ I’m looking to collaborate on Java, React, Next, Flutter or Data Science
 - 📫 Reach me sam.shreyash@gmail.com or whatsapp: +91-8220345492
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samyak-shreyash&theme=dark)](https://git.io/streak-stats)
 [![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyak-shreyash&show_icons=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true")](https://github.com/samyak-shreyash)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-shreyash&langs_count=10&&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Samyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samshreyash&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
